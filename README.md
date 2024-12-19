@@ -39,19 +39,21 @@ The data set was downloaded from [driven Data Competition][Data]
 ## Setup
 
 
-**Prerequisites**
+**Prerequisites**  
 Make sure you have python 3.12++ installed in your machine .You will also need PIP/CONDA for installation purposes  
 
-**Installation**  
+**Installation**    
 Clone the project repository to your local machine  
 ```bash
 git clone https://github.com/yourusername/E-Commerce-Shipping-Project.git
 ```
-Navigate to your local machine and install the required Python Packages:  
+Navigate to your local machine and install the 
+required Python Packages:  
 
 ```bash  
 conda install -r requirements.txt
 ```
+Navigating to python  file 
 ```bash
 python student.ipynb
 ```
