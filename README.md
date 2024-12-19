@@ -31,7 +31,7 @@ The data set was downloaded from [driven Data Competition][Data]
 * Reached on time: It is the target variable, where 1 Indicates that the product has NOT reached on time and 0 indicates it has reached on time.
 
 ### Steps
-
+  Data Understanding
 
 
 
